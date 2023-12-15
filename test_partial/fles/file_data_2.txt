@@ -1,0 +1,14 @@
+report.docx|2048|docx|2023-04-12
+photo.jpg|3072|jpg|2023-02-26
+data.csv|512|csv|2023-03-15
+presentation.pptx|4096|pptx|2023-01-05
+notes.txt|256|txt|2023-05-10
+archive.zip|8192|zip|2023-01-30
+script.py|1024|py|2023-03-22
+brokenfile|none|unknown|2023-04-18
+image.jpg|notanumber|jpg|2023-02-14
+document.docx||docx|2023-03-01
+music.mp3|4096|mp3|2023/04/08
+other_archive.zip|8192|zip|2023-04-23
+video.mp4|6144|mp4|04-07-2023
+diagram.pdf|2048|pdf|2023-02-30

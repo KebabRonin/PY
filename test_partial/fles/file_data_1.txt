@@ -1,0 +1,13 @@
+thesis.pdf|4096|pdf|2021-11-30
+photo1.jpg|5120|jpg|2022-07-15
+audio.mp3|2048|mp3|2022-03-21
+database.db|10240|db|2021-12-12
+spreadsheet.xlsx|3072|xlsx|2022-06-18
+script.js|768|js|2022-09-05
+archive.rar|8192|rar|2022-01-20
+summary.txt|512|txt|2022-04-28
+video.mp4|10240|mp4|2021-10-10
+graphic.ai|6144|ai|2022-05-30
+duplicate_photo.jpg|5120|jpg|2022-08-15
+another_script.js|768|js|2022-10-05
+similar_video.mp4|10240|mp4|2021-11-11
